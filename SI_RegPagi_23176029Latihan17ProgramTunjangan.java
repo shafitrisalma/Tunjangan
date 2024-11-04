@@ -7,7 +7,7 @@ package si_regpagi_23176029latihan17programtunjangan;
 /**
  *
  * @author shafi
- * Nama  : shafitri Salma Ramadanti
+ * Nama  : Shafitri Salma Ramadanti
  * NIM   : 23176029
  * Kelas : PBO1
  * Prodi : Sistem Informasi
